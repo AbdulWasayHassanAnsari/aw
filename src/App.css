@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-color: #282c34;
+  color: whitesmoke;
+}
+
+h1 {
+  color: antiquewhite;
+}
+
+button {
+  background-color: aqua;
+}
